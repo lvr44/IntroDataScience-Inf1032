@@ -1,1 +1,1 @@
-# IntroDataScience-Inf1032
+# Intro Data Science - Inf1032
